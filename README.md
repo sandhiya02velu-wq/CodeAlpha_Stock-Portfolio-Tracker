@@ -40,8 +40,9 @@ This project helps users manage their stock holdings and calculate important por
 
 ## Output
 
-The output of the Stock Portfolio Tracker is shown below:
+Here is the output of the Stock Portfolio Tracker:
 
-![Stock Portfolio Tracker Output](stock portofolio.png)
+<img src="./stock_portofolio.png" alt="Stock Portofolio Tracker Output" width="700">
+
 
 
